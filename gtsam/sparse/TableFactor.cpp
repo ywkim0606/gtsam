@@ -20,7 +20,7 @@
 #include <gtsam/base/FastSet.h>
 #include <gtsam/hybrid/HybridValues.h>
 #include <gtsam/discrete/TableFactor.h>
-#include <gtsam/discrete/SparseDiscreteConditional.h>
+#include <gtsam/sparse/SparseDiscreteConditional.h>
 
 #include <boost/format.hpp>
 #include <utility>

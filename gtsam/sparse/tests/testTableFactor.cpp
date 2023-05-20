@@ -19,7 +19,7 @@
 #include <CppUnitLite/TestHarness.h>
 #include <gtsam/base/Testable.h>
 #include <gtsam/base/serializationTestHelpers.h>
-#include <gtsam/discrete/TableFactor.h>
+#include <gtsam/sparse/TableFactor.h>
 #include <gtsam/discrete/DiscreteDistribution.h>
 #include <gtsam/discrete/Signature.h>
 #include <random>
