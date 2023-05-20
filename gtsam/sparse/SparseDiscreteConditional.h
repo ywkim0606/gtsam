@@ -18,7 +18,7 @@
 #pragma once
 
 #include <gtsam/inference/Conditional-inst.h>
-#include <gtsam/discrete/TableFactor.h>
+#include <gtsam/sparse/TableFactor.h>
 #include <gtsam/discrete/Signature.h>
 
 #include <memory>

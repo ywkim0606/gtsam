@@ -17,7 +17,7 @@
 
 #include <gtsam/base/Testable.h>
 #include <gtsam/base/debug.h>
-#include <gtsam/discrete/SparseDiscreteConditional.h>
+#include <gtsam/sparse/SparseDiscreteConditional.h>
 #include <gtsam/discrete/Signature.h>
 #include <gtsam/hybrid/HybridValues.h>
 

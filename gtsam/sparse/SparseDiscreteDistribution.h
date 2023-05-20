@@ -17,7 +17,7 @@
 
 #pragma once
 
-#include <gtsam/discrete/SparseDiscreteConditional.h>
+#include <gtsam/sparse/SparseDiscreteConditional.h>
 
 #include <string>
 #include <vector>

@@ -18,8 +18,8 @@
 
 #include <CppUnitLite/TestHarness.h>
 #include <gtsam/base/serializationTestHelpers.h>
-#include <gtsam/discrete/TableFactor.h>
-#include <gtsam/discrete/SparseDiscreteConditional.h>
+#include <gtsam/sparse/TableFactor.h>
+#include <gtsam/sparse/SparseDiscreteConditional.h>
 #include <gtsam/inference/Symbol.h>
 
 

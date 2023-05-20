@@ -15,7 +15,7 @@
  *  @author Yoonwoo Kim
  */
 
-#include <gtsam/discrete/SparseDiscreteDistribution.h>
+#include <gtsam/sparse/SparseDiscreteDistribution.h>
 
 #include <vector>
 
